@@ -2,7 +2,14 @@
 
 PerfDoze is a powerful performance optimization tool for rooted Android devices that allows users to fine-tune system resources for individual applications.
 
-![App Logo](assets/icon/app_icon.png)
+## 📸 Screenshots
+
+### 🖥️ Home Screen
+![screenshot1](https://raw.githubusercontent.com/abhijitpatle/perfdoze/main/screenshot1.jpg)
+
+### ⚙️ Configur Screen
+![screenshot2](https://raw.githubusercontent.com/abhijitpatle/perfdoze/main/screenshot2.jpg)
+
 
 ## Features
 
